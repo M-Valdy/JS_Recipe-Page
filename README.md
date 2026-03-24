@@ -8,7 +8,7 @@ This is called the recipe page because this is where I cook (Part 3). This is my
 
 A "trivia bot", created by such extremely basic JavaScript its not even really a bot. Its just words, variables and dialogue lmao. Forgive the bad variables, I decided to make the bot Canadian. Its so basic I actually had a hard time passing the tests.
 
-- **Live site**: [View trivia bot](https://m-valdy.github.io/JS_Recipe-Page/script.js)
+- **Live site**: [View trivia bot](https://m-valdy.github.io/JS_Recipe-Page/trivia_bot/script.js)
 - **Folder**: `trivia_bot`
 - **Tools**: JavaScript
 
