@@ -13,6 +13,13 @@ A "trivia bot", created by such extremely basic JavaScript its not even really a
 
 ---
 
+### 2. 🧵 String Formatter
+
+A string formatter that I decided to create after skipping much of the other learning exercises in the module since I
+already know how strings work. Though since this is closer to the end, at least I learned useful stuff this time.
+
+- **Folder**: `string_formatter`
+- **Tools**: JavaScript
 
 ---
 
