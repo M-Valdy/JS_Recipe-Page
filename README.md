@@ -23,6 +23,15 @@ already know how strings work. Though since this is closer to the end, at least 
 
 ---
 
+### 3. 🧵 Fortune Teller
+
+Its not really a fortune teller since it doesn't take user input. But what it basically does is that it chooses a random number. from 1-5 and gives a fortune corresponding to it. It was a nice way to practice switch statements for me personally.
+
+- **Folder**: `fortune_teller`
+- **Tools**: JavaScript
+
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
