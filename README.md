@@ -34,11 +34,20 @@ Its not really a fortune teller since it doesn't take user input. But what it ba
 
 ### 4. 📧 Email Masker
 
-I decided to put this project in here so that I could keep the code for future use. The code contains a function that masks any email address you give it. 
+I decided to put this project in here so that I could keep the code for future use. The code contains a function that masks any email address you give it.
 
 - **Folder**: `email_masker`
 - **Tools**: JavaScript
 
+---
+
+### 5. 📧 Lunch Picker
+
+Practiced using JavaScript array methods. I remember being bad at these in first year so I decided to practice more. I will probably use these methods a lot more later on.
+
+- **Folder**: `lunch_picker`
+- **Tools**: JavaScript
+  
 ---
 
 ## Deployments
