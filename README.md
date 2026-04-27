@@ -23,11 +23,20 @@ already know how strings work. Though since this is closer to the end, at least 
 
 ---
 
-### 3. 🧵 Fortune Teller
+### 3. 🔮 Fortune Teller
 
 Its not really a fortune teller since it doesn't take user input. But what it basically does is that it chooses a random number. from 1-5 and gives a fortune corresponding to it. It was a nice way to practice switch statements for me personally.
 
 - **Folder**: `fortune_teller`
+- **Tools**: JavaScript
+
+---
+
+### 4. 📧 Email Masker
+
+I decided to put this project in here so that I could keep the code for future use. The code contains a function that masks any email address you give it. 
+
+- **Folder**: `email_masker`
 - **Tools**: JavaScript
 
 ---
