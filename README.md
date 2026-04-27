@@ -41,7 +41,7 @@ I decided to put this project in here so that I could keep the code for future u
 
 ---
 
-### 5. 📧 Lunch Picker
+### 5. 🍱 Lunch Picker
 
 Practiced using JavaScript array methods. I remember being bad at these in first year so I decided to practice more. I will probably use these methods a lot more later on.
 
