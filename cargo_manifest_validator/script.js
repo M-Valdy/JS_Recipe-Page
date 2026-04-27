@@ -79,7 +79,7 @@ const validateManifest = (manifest) => {
 /* Process the cargo manifest, validates the manifest and normalizes the units if the manifest is valid,
  returns the total weight in kg if the manifest is valid, or an object with the missing or 
  invalid fields if the manifest is invalid */
-const processManifest = (manifest) => {
+void processManifest(manifest) {
   let newManifest = {...manifest};
   let postValidationManifest = validateManifest(newManifest);
   let containerId = newManifest.containerId;
