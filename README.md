@@ -47,6 +47,15 @@ Practiced using JavaScript array methods. I remember being bad at these in first
 
 - **Folder**: `lunch_picker`
 - **Tools**: JavaScript
+
+---
+
+### 6. 📦 Cargo Manifest Validator
+
+This time I practiced a lot with objects and how to use them. The project was a bit of a pain but I managed to do it. Hope to challenge myself with harder ones sooner or later.
+
+- **Folder**: `cargo_manifest_validator`
+- **Tools**: JavaScript
   
 ---
 
