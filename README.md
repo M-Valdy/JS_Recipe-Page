@@ -59,6 +59,14 @@ This time I practiced a lot with objects and how to use them. The project was a 
   
 ---
 
+### 7. 🤔 Quiz Game
+
+Once again practicing with objects but this time it included some arrays practice too which was nice. Also I had fun with the questions. It isnt so much a quiz game as it is a "there are questions, computer picks a random answer and hopefully its right game".
+- **Folder**: `quiz_game`
+- **Tools**: JavaScript
+  
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
