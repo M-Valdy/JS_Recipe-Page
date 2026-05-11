@@ -62,7 +62,17 @@ This time I practiced a lot with objects and how to use them. The project was a 
 ### 7. 🤔 Quiz Game
 
 Once again practicing with objects but this time it included some arrays practice too which was nice. Also I had fun with the questions. It isnt so much a quiz game as it is a "there are questions, computer picks a random answer and hopefully its right game".
+
 - **Folder**: `quiz_game`
+- **Tools**: JavaScript
+  
+---
+
+### 8. 🤔 Space Mission Roster
+
+A workshop that allowed me to practice the use of for loops. I partially decided to keep this here because it gave me lots of useful functions and ways to use the splice function for arrays but also because I might need to use the bubble sort later.
+
+- **Folder**: `space_mission_roster`
 - **Tools**: JavaScript
   
 ---
