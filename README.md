@@ -77,6 +77,15 @@ A workshop that allowed me to practice the use of for loops. I partially decided
   
 ---
 
+### 9. 📚 Heritage Library Catalog
+
+Another for loop practice, it has a bunch of useful functions so I decided to keepthe workshop in. I feel like I could definitely use programs like this in the future for parsing and such.
+
+- **Folder**: `heritage_library_catalog`
+- **Tools**: JavaScript
+  
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
