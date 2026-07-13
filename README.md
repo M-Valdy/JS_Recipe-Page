@@ -83,7 +83,16 @@ Another for loop practice, it has a bunch of useful functions so I decided to ke
 
 - **Folder**: `heritage_library_catalog`
 - **Tools**: JavaScript
-  
+
+---
+
+### 10. 💳 Workshop Library
+
+Now I'm practicing things like higher order functions and stuff like reduce() or filter() or map(), I've seen these functions used before in code but now I know how they work and what they mean.
+
+- **Folder**: `workshop_library`
+- **Tools**: JavaScript
+
 ---
 
 ## Deployments
