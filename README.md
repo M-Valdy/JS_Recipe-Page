@@ -95,6 +95,16 @@ Now I'm practicing things like higher order functions and stuff like reduce() or
 
 ---
 
+### 11. 📖 Storytelling App
+
+I'm finally into the more stereotypical use of Javascript, aka using it to make websites more interactive. I'm learning about event listeners and query selectors and all that jazz finally.
+
+- **Live site**: [View Storytelling App](https://m-valdy.github.io/JS_Recipe-Page/storytelling_app/index.html)
+- **Folder**: `storytelling_app`
+- **Tools**: HTML, CSS, JavaScript
+
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
