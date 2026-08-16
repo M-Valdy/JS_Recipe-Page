@@ -105,6 +105,16 @@ I'm finally into the more stereotypical use of Javascript, aka using it to make 
 
 ---
 
+### 12. 📱 Icon Toggler
+
+Practiced the same stuff as the Storytelling App but this time I got a refresher in CSS and HTML and I also practiced doing everything on my own since the previous one was technically a workshop. I'm back to the fantasy grind, yippee.
+
+- **Live site**: [View Icon Toggler](https://m-valdy.github.io/JS_Recipe-Page/icon_toggler/index.html)
+- **Folder**: `icon_toggler`
+- **Tools**: HTML, CSS, JavaScript
+
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
