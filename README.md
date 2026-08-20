@@ -115,6 +115,16 @@ Practiced the same stuff as the Storytelling App but this time I got a refresher
 
 ---
 
+### 13. 🎵 Music Instrument Filter
+
+Practiced filtering arrays of objects based on a selected category and using `.map()` to turn object data into HTML strings. Also got more practice working with `<select>` elements, event listeners, and dynamically updating a page with JavaScript.
+
+- **Live site**: [View Music Instrument Filter](https://m-valdy.github.io/JS_Recipe-Page/music_instrument_filter/index.html)
+- **Folder**: `music_instrument_filter`
+- **Tools**: HTML, CSS, JavaScript
+
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
